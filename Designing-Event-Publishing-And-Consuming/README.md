@@ -1,5 +1,5 @@
 
-# Designing MVC Using UML
+# Designing Event Publishing/Consuming
 ![Data Flow Diagram](./Receive-SMS-Data-Flow.png)
 
 This [Data Flow Diagram](./Receive-SMS-Data-Flow.png) is a sample of the design process for a SMS App project during my co-op work term and was last updated on August 5, 2021.
